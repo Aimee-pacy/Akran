@@ -1,5 +1,5 @@
 body {
-    background-image: url(../images/4-1.jpg) ;
+    background-image: url(../images/bg3.jpeg) ;
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -22,7 +22,7 @@ body {
 }
 .enter{
     position: relative;
-    z-index: 1;
+    z-index: -30;
     background: rgb(49, 47, 47);
     color: #fff;
     max-width: 360px;
@@ -45,7 +45,7 @@ body {
     text-align: center;
     position: relative;
     font-family: cursive;
-    font-size: 20px;
+    font-size: 25px;
     transform: translate(-50% -50%);
     top: 0%;
     max-height: 430px;
