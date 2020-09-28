@@ -43,7 +43,7 @@ h4{
 }
 .div{
     position: relative;
-    z-index: 1;
+    z-index: -1;
     background: rgb(99, 88, 88);
     color: #fff;
     max-width: 600px;
