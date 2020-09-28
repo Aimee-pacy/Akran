@@ -55,6 +55,7 @@ h4{
     font-size: 25px;
     transform: translate(-50% -50%);
     top: 0%;
+    box-shadow: #f2f2f2 2px;
     float:left;
     margin-left: 64px;
     max-height: 894px;
