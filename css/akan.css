@@ -55,12 +55,12 @@ h4{
     top: 0%;
     float:left;
     margin-left: 64px;
-    max-height: 1500px;
+    max-height: 1500;
 }
 
 img {
     border-radius: 50%;
-    width: 110px;
+    width: 50px;
     top: 0%;
     margin-left: 4px;
 
