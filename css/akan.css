@@ -58,6 +58,12 @@ h4{
     max-height: 894px;
 }
 
+img {
+    border-radius: 50%;
+    width: 100px;
+    top: 0%;
+  }
+
 .form input{
     font-family: "Roboto", sans-serif;
     outline: 1;
